@@ -833,6 +833,10 @@
 			"title": "R",
 			"owner": "Golmote"
 		},
+		"radlex": {
+			"title": "RadLex German",
+			"owner": "vsaase"
+		},
 		"jsx": {
 			"title": "React JSX",
 			"require": ["markup", "javascript"],
